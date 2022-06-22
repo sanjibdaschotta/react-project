@@ -1,0 +1,22 @@
+.header_content{
+    background-color: rgb(29, 42, 53);
+    height: 75px;
+    
+}
+
+.header_content ul li{
+    display: inline;
+    color: white;
+    padding: 20px 16px;
+}
+.Brand-container{
+    float: left;
+}
+.Leftnav-container{
+    float: left;
+}
+
+.Rightnav-container{
+    float: right;
+}
+
